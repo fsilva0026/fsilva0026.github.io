@@ -1,0 +1,53 @@
+body {
+	background-color: lightblue;
+}
+
+h1 {
+	color: navy;
+	margin-left: 20px;
+}
+
+table {
+	width: 100%;
+	margin: 15px;
+}
+
+.clave-personal {
+	width: 20%;
+}
+
+.valor-personal {
+	width: 45%;
+}
+
+.instituto-estudio {
+	width: 45%;
+}
+
+.nombre-curso {
+	width: 28%;
+}
+
+.instituto-curso {
+	width: 27%;
+}
+
+.anyo-curso {
+	width: 20%;
+}
+
+.empresa-laboral {
+	width: 35%;
+}
+
+.cargo-laboral {
+	width: 30%;
+}
+
+.nombre-conocimiento {
+	width: 65%;
+}
+
+#tabla-proyectos + td {
+	width: 60%;
+}
